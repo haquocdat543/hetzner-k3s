@@ -8,7 +8,11 @@ Setup k8s cluster on hetzner cloud
 ### 2. Get started
 #### 1. Review config file
 * Replace `hetzner token` with your `real token` in `config file`
-* Check for other configuration base on `default-config.yaml`
+* Replace `k3s-version` with your `version` that you desire
+```
+hetzner-k3s releases
+```
+* Check for other configuration base on `default-config.yaml`. Other this link [default-config-file](https://github.com/vitobotta/hetzner-k3://github.com/vitobotta/hetzner-k3s) in `Create a cluster` part
 #### 2. Create cluster
 Replace `config file` with your real config file
 ```
