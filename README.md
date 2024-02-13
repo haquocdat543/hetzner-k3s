@@ -1,5 +1,7 @@
 # hetzner-k3s
 Setup k8s cluster on hetzner cloud
+
+This guide is based on [vitobotta-guide](https://github.com/vitobotta/hetzner-k3s). Please view their guide first.
 ### 1. Prerequisites
 * A verified Hetzner account
 * [hetzner-api-token](https://docs.hetzner.com/cloud/api/getting-started/generating-api-token/) 
