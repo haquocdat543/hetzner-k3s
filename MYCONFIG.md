@@ -5,7 +5,7 @@ one node is ~ `5,25` euros per month
 ### 1. Prerequisites
 * A verified Hetzner account
 * [hetzner-api-token](https://docs.hetzner.com/cloud/api/getting-started/generating-api-token/) 
-* [hetzner-k3s](https://github.com/vitobotta/hetzner-k3://github.com/vitobotta/hetzner-k3s) in `Installation` part
+* [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) in `Installation` part
 * [kubectl](https://kubernetes.io/docs/tasks/tools/)
 ### 2. Get started
 #### 1. Review config file
